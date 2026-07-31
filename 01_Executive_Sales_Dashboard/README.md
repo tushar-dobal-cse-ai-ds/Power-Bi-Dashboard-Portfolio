@@ -2,67 +2,54 @@
 
 ## Overview
 
-This project presents an interactive Executive Sales Dashboard developed in **Microsoft Power BI** using the Superstore dataset. It provides actionable business insights into sales performance, profitability, customer behavior, and regional trends through interactive visualizations and KPI tracking.
+This project presents an interactive **Executive Sales Dashboard** built in **Microsoft Power BI** using the Sample Superstore dataset. The dashboard provides business leaders with actionable insights into sales performance, profitability, customer behavior, and regional trends through dynamic visualizations and KPI reporting.
 
 ---
 
-## Business Problem
+## Business Objective
 
-Organizations need a centralized dashboard to monitor sales performance, identify profitable product categories, analyze customer purchasing patterns, and support strategic business decisions.
-
----
-
-## Objectives
-
-- Analyze total sales and profit
-- Monitor monthly sales trends
-- Identify top-performing products
-- Compare regional performance
-- Evaluate customer purchasing behavior
-- Track profitability across categories
+The objective of this dashboard is to monitor key sales metrics, identify profitable business segments, analyze customer purchasing patterns, and support data-driven decision-making through interactive business intelligence.
 
 ---
 
-## Key KPIs
+## Key Performance Indicators
 
-| KPI | Description |
-|------|-------------|
-| Total Sales | Overall revenue generated |
-| Total Profit | Total profit earned |
-| Total Orders | Number of customer orders |
-| Profit Margin | Profit percentage |
-| Average Order Value | Average revenue per order |
+| KPI | Value |
+|------|-------|
+| Total Sales | **2.30M** |
+| Total Profit | **286.40K** |
+| Total Orders | **5K** |
+| Profit Margin | **12.47%** |
+| Average Order Value | **$458.61** |
 
 ---
 
 ## Dashboard Features
 
 - Executive KPI Cards
-- Interactive Slicers
-- Monthly Sales Trend
+- Monthly Sales & Profit Trend
+- Profit Analysis by Sub-Category
+- Top 10 Customers
 - Sales by Category
-- Sales by Sub-category
-- Regional Performance Analysis
-- Top Products
-- Top Customers
-- Forecasting
-- Drill-through Navigation
-- Dynamic Filtering
+- Sales by Segment
+- Sales by Region
+- Sub-Category Performance Analysis
+- Interactive Filters (Category, Region, Year)
 
 ---
 
 ## Skills Demonstrated
 
-- Power BI
+- Microsoft Power BI
 - Power Query
 - Data Cleaning
 - Data Modeling
 - Star Schema
 - DAX Measures
-- Time Intelligence
-- Forecasting
-- Interactive Reports
+- KPI Design
+- Interactive Dashboards
 - Business Intelligence
+- Data Visualization
 
 ---
 
@@ -70,26 +57,20 @@ Organizations need a centralized dashboard to monitor sales performance, identif
 
 - Total Sales
 - Total Profit
-- Profit Margin
+- Total Orders
+- Profit Margin %
 - Average Order Value
-- Running Total Sales
-- Year-over-Year Growth
-
----
-
-## Dataset
-
-- Superstore Dataset
 
 ---
 
 ## Business Insights
 
-- Identified the highest revenue-generating product categories.
-- Compared profitability across different regions.
-- Highlighted top-performing customers.
-- Analyzed monthly sales trends to identify seasonal patterns.
-- Monitored profit margins for informed business decisions.
+- Generated over **$2.30M** in total sales with a **12.47%** profit margin.
+- Technology emerged as the highest-performing product category.
+- Consumer segment contributed the largest share of revenue.
+- The West region recorded the highest sales performance.
+- Identified top-performing customers contributing significantly to overall revenue.
+- Monthly sales and profit trends reveal seasonal fluctuations useful for business planning.
 
 ---
 
@@ -98,7 +79,7 @@ Organizations need a centralized dashboard to monitor sales performance, identif
 - Microsoft Power BI
 - Power Query
 - DAX
-- Microsoft Excel / CSV
+- Sample Superstore Dataset
 
 ---
 
@@ -108,4 +89,4 @@ Organizations need a centralized dashboard to monitor sales performance, identif
 
 B.Tech CSE (AI & DS)
 
-Aspiring Data Analyst | Power BI | SQL | Python | Machine Learning
+Aspiring Data Analyst | SQL | Power BI | Python | Machine Learning
